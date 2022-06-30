@@ -1,3 +1,2 @@
 ![shipit](https://github.githubassets.com/images/icons/emoji/shipit.png)
-
-![metrics](./github-metrics.svg)
+im saturn and i make shit
